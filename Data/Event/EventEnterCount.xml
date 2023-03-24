@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==              File Name: EventEnterCount                ==
+// ============================================================
+-->
+
+<EventEnterCount>
+    <Event ID="0" Count="4" />
+    <Event ID="1" Count="4" />
+    <Event ID="2" Count="4" />
+    <Event ID="3" Count="1" />
+    <Event ID="5" Count="4" />
+    <Event ID="14" Count="4" />
+</EventEnterCount>

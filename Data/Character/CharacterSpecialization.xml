@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==          File Name: CharacterSpecialization            ==
+// ============================================================
+-->
+
+<CharacterSpecialization>
+	<Option Class="0" Stat="7" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="0" Stat="7" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="0" Stat="7" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="0" Stat="8" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="0" Stat="8" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="0" Stat="8" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="0" Stat="2" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="0" Stat="2" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="0" Stat="2" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="0" Stat="3" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="0" Stat="3" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="0" Stat="3" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="1" Stat="0" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="1" Stat="0" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="1" Stat="0" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="1" Stat="1" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="1" Stat="1" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="1" Stat="1" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="1" Stat="4" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="1" Stat="4" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="1" Stat="4" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="2" Stat="0" ReqStat="1" ReqStatMin="1" ReqStatMax="1800" PercentMin="0" PercentMax="10" ReqStatLimit="1800" />
+	<Option Class="2" Stat="0" ReqStat="1" ReqStatMin="1801" ReqStatMax="2100" PercentMin="10" PercentMax="30" ReqStatLimit="2100" />
+	<Option Class="2" Stat="0" ReqStat="1" ReqStatMin="2101" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="2" Stat="1" ReqStat="1" ReqStatMin="1" ReqStatMax="1800" PercentMin="0" PercentMax="10" ReqStatLimit="1800" />
+	<Option Class="2" Stat="1" ReqStat="1" ReqStatMin="1801" ReqStatMax="2100" PercentMin="10" PercentMax="30" ReqStatLimit="2100" />
+	<Option Class="2" Stat="1" ReqStat="1" ReqStatMin="2101" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="2" Stat="5" ReqStat="1" ReqStatMin="1" ReqStatMax="1800" PercentMin="0" PercentMax="10" ReqStatLimit="1800" />
+	<Option Class="2" Stat="5" ReqStat="1" ReqStatMin="1801" ReqStatMax="2100" PercentMin="10" PercentMax="30" ReqStatLimit="2100" />
+	<Option Class="2" Stat="5" ReqStat="1" ReqStatMin="2101" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="2" Stat="6" ReqStat="1" ReqStatMin="1" ReqStatMax="1800" PercentMin="0" PercentMax="10" ReqStatLimit="1800" />
+	<Option Class="2" Stat="6" ReqStat="1" ReqStatMin="1801" ReqStatMax="2100" PercentMin="10" PercentMax="30" ReqStatLimit="2100" />
+	<Option Class="2" Stat="6" ReqStat="1" ReqStatMin="2101" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="3" Stat="0" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="3" Stat="0" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="3" Stat="0" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="3" Stat="1" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="3" Stat="1" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="3" Stat="1" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="3" Stat="7" ReqStat="3" ReqStatMin="1" ReqStatMax="1800" PercentMin="0" PercentMax="10" ReqStatLimit="1800" />
+	<Option Class="3" Stat="7" ReqStat="3" ReqStatMin="1801" ReqStatMax="2500" PercentMin="10" PercentMax="30" ReqStatLimit="2500" />
+	<Option Class="3" Stat="7" ReqStat="3" ReqStatMin="2501" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="3" Stat="8" ReqStat="3" ReqStatMin="1" ReqStatMax="1800" PercentMin="0" PercentMax="10" ReqStatLimit="1800" />
+	<Option Class="3" Stat="8" ReqStat="3" ReqStatMin="1801" ReqStatMax="2500" PercentMin="10" PercentMax="30" ReqStatLimit="2500" />
+	<Option Class="3" Stat="8" ReqStat="3" ReqStatMin="2501" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="4" Stat="0" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="4" Stat="0" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="4" Stat="0" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="4" Stat="1" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="4" Stat="1" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="4" Stat="1" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="4" Stat="4" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="4" Stat="4" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="4" Stat="4" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="5" Stat="7" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="5" Stat="7" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="5" Stat="7" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="5" Stat="8" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="5" Stat="8" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="5" Stat="8" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="5" Stat="9" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="5" Stat="9" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="5" Stat="9" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="5" Stat="10" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="5" Stat="10" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="5" Stat="10" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="6" Stat="0" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="6" Stat="0" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="6" Stat="0" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="6" Stat="1" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="6" Stat="1" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="6" Stat="1" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="7" Stat="0" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="7" Stat="0" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="7" Stat="0" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="7" Stat="1" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="7" Stat="1" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="7" Stat="1" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="7" Stat="4" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="7" Stat="4" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="7" Stat="4" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="8" Stat="7" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="8" Stat="7" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="8" Stat="7" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="8" Stat="8" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="8" Stat="8" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="8" Stat="8" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="8" Stat="2" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="8" Stat="2" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="8" Stat="2" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="8" Stat="3" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="8" Stat="3" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="8" Stat="3" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="9" Stat="0" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="9" Stat="0" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="9" Stat="0" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="9" Stat="1" ReqStat="0" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="9" Stat="1" ReqStat="0" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="9" Stat="1" ReqStat="0" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="9" Stat="5" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="9" Stat="5" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="9" Stat="5" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="10" Stat="7" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="10" Stat="7" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="10" Stat="7" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="10" Stat="8" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="10" Stat="8" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="10" Stat="8" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="10" Stat="2" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="10" Stat="2" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="10" Stat="2" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="10" Stat="3" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="10" Stat="3" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="10" Stat="3" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	
+	<Option Class="11" Stat="7" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="11" Stat="7" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="11" Stat="7" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="11" Stat="8" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="11" Stat="8" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="11" Stat="8" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="11" Stat="2" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="11" Stat="2" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="11" Stat="2" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="11" Stat="3" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="11" Stat="3" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="11" Stat="3" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	
+	
+	<Option Class="12" Stat="7" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="12" Stat="7" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="12" Stat="7" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="12" Stat="8" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="12" Stat="8" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="12" Stat="8" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="12" Stat="2" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="12" Stat="2" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="12" Stat="2" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="12" Stat="3" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="12" Stat="3" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="12" Stat="3" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	
+	
+	<Option Class="13" Stat="7" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="13" Stat="7" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="13" Stat="7" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="13" Stat="8" ReqStat="3" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="13" Stat="8" ReqStat="3" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="13" Stat="8" ReqStat="3" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="13" Stat="2" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="13" Stat="2" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="13" Stat="2" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+	<Option Class="13" Stat="3" ReqStat="1" ReqStatMin="1" ReqStatMax="1500" PercentMin="0" PercentMax="10" ReqStatLimit="1500" />
+	<Option Class="13" Stat="3" ReqStat="1" ReqStatMin="1501" ReqStatMax="2000" PercentMin="10" PercentMax="30" ReqStatLimit="2000" />
+	<Option Class="13" Stat="3" ReqStat="1" ReqStatMin="2001" ReqStatMax="-1" PercentMin="30" PercentMax="45" ReqStatLimit="3000" />
+</CharacterSpecialization>

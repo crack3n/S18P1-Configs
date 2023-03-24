@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==     File Name: EventImperialFortressMonsterSettings    ==
+// ============================================================
+-->
+
+<EventImperialFortressMonsterSettings>
+    <EventLevel Level="0">
+		<Data MonsterID="504" Level="62" Life="112500" Mana="112500" Shield="0" Stamina="112500" AttackMin="900" AttackMax="1000" AttackRate="1000" Def="315" DefRate="315" ItemBag="Imperial Fortress - Sunday 101 - 200" />
+		<Data MonsterID="505" Level="62" Life="83700" Mana="83700" Shield="0" Stamina="83700" AttackMin="840" AttackMax="940" AttackRate="940" Def="270" DefRate="270" ItemBag="" />
+		<Data MonsterID="506" Level="62" Life="72000" Mana="72000" Shield="0" Stamina="72000" AttackMin="780" AttackMax="880" AttackRate="880" Def="252" DefRate="252" ItemBag="" />
+		<Data MonsterID="507" Level="62" Life="72000" Mana="72000" Shield="0" Stamina="72000" AttackMin="780" AttackMax="880" AttackRate="880" Def="252" DefRate="252" ItemBag="" />
+		<Data MonsterID="508" Level="62" Life="70200" Mana="70200" Shield="0" Stamina="70200" AttackMin="720" AttackMax="820" AttackRate="820" Def="243" DefRate="243" ItemBag="" />
+		<Data MonsterID="509" Level="62" Life="70200" Mana="70200" Shield="0" Stamina="70200" AttackMin="720" AttackMax="820" AttackRate="820" Def="243" DefRate="243" ItemBag="" />
+		<Data MonsterID="510" Level="62" Life="70200" Mana="70200" Shield="0" Stamina="70200" AttackMin="720" AttackMax="820" AttackRate="820" Def="243" DefRate="243" ItemBag="" />
+		<Data MonsterID="511" Level="62" Life="70200" Mana="70200" Shield="0" Stamina="70200" AttackMin="720" AttackMax="820" AttackRate="820" Def="243" DefRate="243" ItemBag="" />
+		<Data MonsterID="512" Level="62" Life="58500" Mana="58500" Shield="0" Stamina="58500" AttackMin="660" AttackMax="760" AttackRate="760" Def="198" DefRate="198" ItemBag="" />
+		<Data MonsterID="513" Level="62" Life="58500" Mana="58500" Shield="0" Stamina="58500" AttackMin="660" AttackMax="760" AttackRate="760" Def="198" DefRate="198" ItemBag="" />
+		<Data MonsterID="514" Level="62" Life="58500" Mana="58500" Shield="0" Stamina="58500" AttackMin="660" AttackMax="760" AttackRate="760" Def="198" DefRate="198" ItemBag="" />
+		<Data MonsterID="515" Level="62" Life="58500" Mana="58500" Shield="0" Stamina="58500" AttackMin="660" AttackMax="760" AttackRate="760" Def="198" DefRate="198" ItemBag="" />
+		<Data MonsterID="516" Level="62" Life="58500" Mana="58500" Shield="0" Stamina="58500" AttackMin="660" AttackMax="760" AttackRate="760" Def="198" DefRate="198" ItemBag="" />
+		<Data MonsterID="517" Level="62" Life="58500" Mana="58500" Shield="0" Stamina="58500" AttackMin="660" AttackMax="760" AttackRate="760" Def="198" DefRate="198" ItemBag="" />
+		<Data MonsterID="518" Level="62" Life="52200" Mana="52200" Shield="0" Stamina="52200" AttackMin="600" AttackMax="700" AttackRate="700" Def="180" DefRate="180" ItemBag="" />
+		<Data MonsterID="519" Level="62" Life="45000" Mana="45000" Shield="0" Stamina="45000" AttackMin="500" AttackMax="600" AttackRate="600" Def="135" DefRate="135" ItemBag="" />
+		<Data MonsterID="520" Level="62" Life="49500" Mana="49500" Shield="0" Stamina="49500" AttackMin="560" AttackMax="660" AttackRate="660" Def="153" DefRate="153" ItemBag="" />
+		<Data MonsterID="521" Level="62" Life="52200" Mana="52200" Shield="0" Stamina="52200" AttackMin="600" AttackMax="700" AttackRate="700" Def="180" DefRate="180" ItemBag="" />
+		<Data MonsterID="524" Level="2" Life="16875" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="158" DefRate="158" ItemBag="" />
+		<Data MonsterID="525" Level="2" Life="16875" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="158" DefRate="158" ItemBag="" />
+		<Data MonsterID="526" Level="2" Life="16875" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="158" DefRate="158" ItemBag="Imperial Fortress - Statue" />
+		<Data MonsterID="527" Level="2" Life="16875" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="158" DefRate="158" ItemBag="" />
+		<Data MonsterID="528" Level="2" Life="16875" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="158" DefRate="158" ItemBag="" />
+    </EventLevel>
+
+    <EventLevel Level="1">
+		<Data MonsterID="504" Level="78" Life="1125000" Mana="1125000" Shield="0" Stamina="1125000" AttackMin="1305" AttackMax="1450" AttackRate="1450" Def="455" DefRate="455" ItemBag="Imperial Fortress - Sunday 201 - 300" />
+		<Data MonsterID="505" Level="78" Life="837000" Mana="837000" Shield="0" Stamina="837000" AttackMin="1218" AttackMax="1363" AttackRate="1363" Def="390" DefRate="390" ItemBag="" />
+		<Data MonsterID="506" Level="78" Life="720000" Mana="720000" Shield="0" Stamina="720000" AttackMin="1131" AttackMax="1276" AttackRate="1276" Def="364" DefRate="364" ItemBag="" />
+		<Data MonsterID="507" Level="78" Life="720000" Mana="720000" Shield="0" Stamina="720000" AttackMin="1131" AttackMax="1276" AttackRate="1276" Def="364" DefRate="364" ItemBag="" />
+		<Data MonsterID="508" Level="78" Life="702000" Mana="702000" Shield="0" Stamina="702000" AttackMin="1044" AttackMax="1189" AttackRate="1189" Def="351" DefRate="351" ItemBag="" />
+		<Data MonsterID="509" Level="78" Life="702000" Mana="702000" Shield="0" Stamina="702000" AttackMin="1044" AttackMax="1189" AttackRate="1189" Def="351" DefRate="351" ItemBag="" />
+		<Data MonsterID="510" Level="78" Life="702000" Mana="702000" Shield="0" Stamina="702000" AttackMin="1044" AttackMax="1189" AttackRate="1189" Def="351" DefRate="351" ItemBag="" />
+		<Data MonsterID="511" Level="78" Life="702000" Mana="702000" Shield="0" Stamina="702000" AttackMin="1044" AttackMax="1189" AttackRate="1189" Def="351" DefRate="351" ItemBag="" />
+		<Data MonsterID="512" Level="78" Life="585000" Mana="585000" Shield="0" Stamina="585000" AttackMin="957" AttackMax="1102" AttackRate="1102" Def="286" DefRate="286" ItemBag="" />
+		<Data MonsterID="513" Level="78" Life="585000" Mana="585000" Shield="0" Stamina="585000" AttackMin="957" AttackMax="1102" AttackRate="1102" Def="286" DefRate="286" ItemBag="" />
+		<Data MonsterID="514" Level="78" Life="585000" Mana="585000" Shield="0" Stamina="585000" AttackMin="957" AttackMax="1102" AttackRate="1102" Def="286" DefRate="286" ItemBag="" />
+		<Data MonsterID="515" Level="78" Life="585000" Mana="585000" Shield="0" Stamina="585000" AttackMin="957" AttackMax="1102" AttackRate="1102" Def="286" DefRate="286" ItemBag="" />
+		<Data MonsterID="516" Level="78" Life="585000" Mana="585000" Shield="0" Stamina="585000" AttackMin="957" AttackMax="1102" AttackRate="1102" Def="286" DefRate="286" ItemBag="" />
+		<Data MonsterID="517" Level="78" Life="585000" Mana="585000" Shield="0" Stamina="585000" AttackMin="957" AttackMax="1102" AttackRate="1102" Def="286" DefRate="286" ItemBag="" />
+		<Data MonsterID="518" Level="78" Life="522000" Mana="522000" Shield="0" Stamina="522000" AttackMin="870" AttackMax="1015" AttackRate="1015" Def="260" DefRate="260" ItemBag="" />
+		<Data MonsterID="519" Level="78" Life="450000" Mana="450000" Shield="0" Stamina="450000" AttackMin="725" AttackMax="870" AttackRate="870" Def="195" DefRate="195" ItemBag="" />
+		<Data MonsterID="520" Level="78" Life="495000" Mana="495000" Shield="0" Stamina="495000" AttackMin="812" AttackMax="957" AttackRate="957" Def="221" DefRate="221" ItemBag="" />
+		<Data MonsterID="521" Level="78" Life="522000" Mana="522000" Shield="0" Stamina="522000" AttackMin="870" AttackMax="1015" AttackRate="1015" Def="260" DefRate="260" ItemBag="" />
+		<Data MonsterID="524" Level="2" Life="168750" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="228" DefRate="228" ItemBag="" />
+		<Data MonsterID="525" Level="2" Life="168750" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="228" DefRate="228" ItemBag="" />
+		<Data MonsterID="526" Level="2" Life="168750" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="228" DefRate="228" ItemBag="Imperial Fortress - Statue" />
+		<Data MonsterID="527" Level="2" Life="168750" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="228" DefRate="228" ItemBag="" />
+		<Data MonsterID="528" Level="2" Life="168750" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="228" DefRate="228" ItemBag="" />
+    </EventLevel>
+
+    <EventLevel Level="2">
+		<Data MonsterID="504" Level="95" Life="1875000" Mana="1875000" Shield="0" Stamina="1875000" AttackMin="1665" AttackMax="1850" AttackRate="1850" Def="700" DefRate="700" ItemBag="Imperial Fortress - Sunday 301 - 400" />
+		<Data MonsterID="505" Level="95" Life="1395000" Mana="1395000" Shield="0" Stamina="1395000" AttackMin="1554" AttackMax="1739" AttackRate="1739" Def="600" DefRate="600" ItemBag="" />
+		<Data MonsterID="506" Level="95" Life="1200000" Mana="1200000" Shield="0" Stamina="1200000" AttackMin="1443" AttackMax="1628" AttackRate="1628" Def="560" DefRate="560" ItemBag="" />
+		<Data MonsterID="507" Level="95" Life="1200000" Mana="1200000" Shield="0" Stamina="1200000" AttackMin="1443" AttackMax="1628" AttackRate="1628" Def="560" DefRate="560" ItemBag="" />
+		<Data MonsterID="508" Level="95" Life="1170000" Mana="1170000" Shield="0" Stamina="1170000" AttackMin="1332" AttackMax="1517" AttackRate="1517" Def="540" DefRate="540" ItemBag="" />
+		<Data MonsterID="509" Level="95" Life="1170000" Mana="1170000" Shield="0" Stamina="1170000" AttackMin="1332" AttackMax="1517" AttackRate="1517" Def="540" DefRate="540" ItemBag="" />
+		<Data MonsterID="510" Level="95" Life="1170000" Mana="1170000" Shield="0" Stamina="1170000" AttackMin="1332" AttackMax="1517" AttackRate="1517" Def="540" DefRate="540" ItemBag="" />
+		<Data MonsterID="511" Level="95" Life="1170000" Mana="1170000" Shield="0" Stamina="1170000" AttackMin="1332" AttackMax="1517" AttackRate="1517" Def="540" DefRate="540" ItemBag="" />
+		<Data MonsterID="512" Level="95" Life="975000" Mana="975000" Shield="0" Stamina="975000" AttackMin="1221" AttackMax="1406" AttackRate="1406" Def="440" DefRate="440" ItemBag="" />
+		<Data MonsterID="513" Level="95" Life="975000" Mana="975000" Shield="0" Stamina="975000" AttackMin="1221" AttackMax="1406" AttackRate="1406" Def="440" DefRate="440" ItemBag="" />
+		<Data MonsterID="514" Level="95" Life="975000" Mana="975000" Shield="0" Stamina="975000" AttackMin="1221" AttackMax="1406" AttackRate="1406" Def="440" DefRate="440" ItemBag="" />
+		<Data MonsterID="515" Level="95" Life="975000" Mana="975000" Shield="0" Stamina="975000" AttackMin="1221" AttackMax="1406" AttackRate="1406" Def="440" DefRate="440" ItemBag="" />
+		<Data MonsterID="516" Level="95" Life="975000" Mana="975000" Shield="0" Stamina="975000" AttackMin="1221" AttackMax="1406" AttackRate="1406" Def="440" DefRate="440" ItemBag="" />
+		<Data MonsterID="517" Level="95" Life="975000" Mana="975000" Shield="0" Stamina="975000" AttackMin="1221" AttackMax="1406" AttackRate="1406" Def="440" DefRate="440" ItemBag="" />
+		<Data MonsterID="518" Level="95" Life="870000" Mana="870000" Shield="0" Stamina="870000" AttackMin="1110" AttackMax="1295" AttackRate="1295" Def="400" DefRate="400" ItemBag="" />
+		<Data MonsterID="519" Level="95" Life="750000" Mana="750000" Shield="0" Stamina="750000" AttackMin="925" AttackMax="1110" AttackRate="1110" Def="300" DefRate="300" ItemBag="" />
+		<Data MonsterID="520" Level="95" Life="825000" Mana="825000" Shield="0" Stamina="825000" AttackMin="1036" AttackMax="1221" AttackRate="1221" Def="340" DefRate="340" ItemBag="" />
+		<Data MonsterID="521" Level="95" Life="870000" Mana="870000" Shield="0" Stamina="870000" AttackMin="1110" AttackMax="1295" AttackRate="1295" Def="400" DefRate="400" ItemBag="" />
+		<Data MonsterID="524" Level="2" Life="281250" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="350" DefRate="350" ItemBag="" />
+		<Data MonsterID="525" Level="2" Life="281250" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="350" DefRate="350" ItemBag="" />
+		<Data MonsterID="526" Level="2" Life="281250" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="350" DefRate="350" ItemBag="Imperial Fortress - Statue" />
+		<Data MonsterID="527" Level="2" Life="281250" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="350" DefRate="350" ItemBag="" />
+		<Data MonsterID="528" Level="2" Life="281250" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="350" DefRate="350" ItemBag="" />
+    </EventLevel>
+
+    <EventLevel Level="3">
+		<Data MonsterID="504" Level="105" Life="2250000" Mana="2250000" Shield="0" Stamina="2250000" AttackMin="1890" AttackMax="2100" AttackRate="2100" Def="875" DefRate="875" ItemBag="Imperial Fortress - Sunday 301 - 400" />
+		<Data MonsterID="505" Level="105" Life="1674000" Mana="1674000" Shield="0" Stamina="1674000" AttackMin="1764" AttackMax="1974" AttackRate="1974" Def="750" DefRate="750" ItemBag="" />
+		<Data MonsterID="506" Level="105" Life="1440000" Mana="1440000" Shield="0" Stamina="1440000" AttackMin="1638" AttackMax="1848" AttackRate="1848" Def="700" DefRate="700" ItemBag="" />
+		<Data MonsterID="507" Level="105" Life="1440000" Mana="1440000" Shield="0" Stamina="1440000" AttackMin="1638" AttackMax="1848" AttackRate="1848" Def="700" DefRate="700" ItemBag="" />
+		<Data MonsterID="508" Level="105" Life="1404000" Mana="1404000" Shield="0" Stamina="1404000" AttackMin="1512" AttackMax="1722" AttackRate="1722" Def="675" DefRate="675" ItemBag="" />
+		<Data MonsterID="509" Level="105" Life="1404000" Mana="1404000" Shield="0" Stamina="1404000" AttackMin="1512" AttackMax="1722" AttackRate="1722" Def="675" DefRate="675" ItemBag="" />
+		<Data MonsterID="510" Level="105" Life="1404000" Mana="1404000" Shield="0" Stamina="1404000" AttackMin="1512" AttackMax="1722" AttackRate="1722" Def="675" DefRate="675" ItemBag="" />
+		<Data MonsterID="511" Level="105" Life="1404000" Mana="1404000" Shield="0" Stamina="1404000" AttackMin="1512" AttackMax="1722" AttackRate="1722" Def="675" DefRate="675" ItemBag="" />
+		<Data MonsterID="512" Level="105" Life="1170000" Mana="1170000" Shield="0" Stamina="1170000" AttackMin="1386" AttackMax="1596" AttackRate="1596" Def="550" DefRate="550" ItemBag="" />
+		<Data MonsterID="513" Level="105" Life="1170000" Mana="1170000" Shield="0" Stamina="1170000" AttackMin="1386" AttackMax="1596" AttackRate="1596" Def="550" DefRate="550" ItemBag="" />
+		<Data MonsterID="514" Level="105" Life="1170000" Mana="1170000" Shield="0" Stamina="1170000" AttackMin="1386" AttackMax="1596" AttackRate="1596" Def="550" DefRate="550" ItemBag="" />
+		<Data MonsterID="515" Level="105" Life="1170000" Mana="1170000" Shield="0" Stamina="1170000" AttackMin="1386" AttackMax="1596" AttackRate="1596" Def="550" DefRate="550" ItemBag="" />
+		<Data MonsterID="516" Level="105" Life="1170000" Mana="1170000" Shield="0" Stamina="1170000" AttackMin="1386" AttackMax="1596" AttackRate="1596" Def="550" DefRate="550" ItemBag="" />
+		<Data MonsterID="517" Level="105" Life="1170000" Mana="1170000" Shield="0" Stamina="1170000" AttackMin="1386" AttackMax="1596" AttackRate="1596" Def="550" DefRate="550" ItemBag="" />
+		<Data MonsterID="518" Level="105" Life="1044000" Mana="1044000" Shield="0" Stamina="1044000" AttackMin="1260" AttackMax="1470" AttackRate="1470" Def="500" DefRate="500" ItemBag="" />
+		<Data MonsterID="519" Level="105" Life="900000" Mana="900000" Shield="0" Stamina="900000" AttackMin="1050" AttackMax="1260" AttackRate="1260" Def="375" DefRate="375" ItemBag="" />
+		<Data MonsterID="520" Level="105" Life="990000" Mana="990000" Shield="0" Stamina="990000" AttackMin="1176" AttackMax="1386" AttackRate="1386" Def="425" DefRate="425" ItemBag="" />
+		<Data MonsterID="521" Level="105" Life="1044000" Mana="1044000" Shield="0" Stamina="1044000" AttackMin="1260" AttackMax="1470" AttackRate="1470" Def="500" DefRate="500" ItemBag="" />
+		<Data MonsterID="524" Level="2" Life="337500" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="438" DefRate="438" ItemBag="" />
+		<Data MonsterID="525" Level="2" Life="337500" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="438" DefRate="438" ItemBag="" />
+		<Data MonsterID="526" Level="2" Life="337500" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="438" DefRate="438" ItemBag="Imperial Fortress - Statue" />
+		<Data MonsterID="527" Level="2" Life="337500" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="438" DefRate="438" ItemBag="" />
+		<Data MonsterID="528" Level="2" Life="337500" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="438" DefRate="438" ItemBag="" />
+    </EventLevel>
+
+    <EventLevel Level="4">
+		<Data MonsterID="504" Level="125" Life="2375000" Mana="2375000" Shield="0" Stamina="2375000" AttackMin="2115" AttackMax="2350" AttackRate="2350" Def="1225" DefRate="1225" ItemBag="Imperial Fortress - Sunday 401 - 600" />
+		<Data MonsterID="505" Level="125" Life="1767000" Mana="1767000" Shield="0" Stamina="1767000" AttackMin="1974" AttackMax="2209" AttackRate="2209" Def="1050" DefRate="1050" ItemBag="" />
+		<Data MonsterID="506" Level="125" Life="1520000" Mana="1520000" Shield="0" Stamina="1520000" AttackMin="1833" AttackMax="2068" AttackRate="2068" Def="980" DefRate="980" ItemBag="" />
+		<Data MonsterID="507" Level="125" Life="1520000" Mana="1520000" Shield="0" Stamina="1520000" AttackMin="1833" AttackMax="2068" AttackRate="2068" Def="980" DefRate="980" ItemBag="" />
+		<Data MonsterID="508" Level="125" Life="1482000" Mana="1482000" Shield="0" Stamina="1482000" AttackMin="1692" AttackMax="1927" AttackRate="1927" Def="945" DefRate="945" ItemBag="" />
+		<Data MonsterID="509" Level="125" Life="1482000" Mana="1482000" Shield="0" Stamina="1482000" AttackMin="1692" AttackMax="1927" AttackRate="1927" Def="945" DefRate="945" ItemBag="" />
+		<Data MonsterID="510" Level="125" Life="1482000" Mana="1482000" Shield="0" Stamina="1482000" AttackMin="1692" AttackMax="1927" AttackRate="1927" Def="945" DefRate="945" ItemBag="" />
+		<Data MonsterID="511" Level="125" Life="1482000" Mana="1482000" Shield="0" Stamina="1482000" AttackMin="1692" AttackMax="1927" AttackRate="1927" Def="945" DefRate="945" ItemBag="" />
+		<Data MonsterID="512" Level="125" Life="1235000" Mana="1235000" Shield="0" Stamina="1235000" AttackMin="1551" AttackMax="1786" AttackRate="1786" Def="770" DefRate="770" ItemBag="" />
+		<Data MonsterID="513" Level="125" Life="1235000" Mana="1235000" Shield="0" Stamina="1235000" AttackMin="1551" AttackMax="1786" AttackRate="1786" Def="770" DefRate="770" ItemBag="" />
+		<Data MonsterID="514" Level="125" Life="1235000" Mana="1235000" Shield="0" Stamina="1235000" AttackMin="1551" AttackMax="1786" AttackRate="1786" Def="770" DefRate="770" ItemBag="" />
+		<Data MonsterID="515" Level="125" Life="1235000" Mana="1235000" Shield="0" Stamina="1235000" AttackMin="1551" AttackMax="1786" AttackRate="1786" Def="770" DefRate="770" ItemBag="" />
+		<Data MonsterID="516" Level="125" Life="1235000" Mana="1235000" Shield="0" Stamina="1235000" AttackMin="1551" AttackMax="1786" AttackRate="1786" Def="770" DefRate="770" ItemBag="" />
+		<Data MonsterID="517" Level="125" Life="1235000" Mana="1235000" Shield="0" Stamina="1235000" AttackMin="1551" AttackMax="1786" AttackRate="1786" Def="770" DefRate="770" ItemBag="" />
+		<Data MonsterID="518" Level="125" Life="1102000" Mana="1102000" Shield="0" Stamina="1102000" AttackMin="1410" AttackMax="1645" AttackRate="1645" Def="700" DefRate="700" ItemBag="" />
+		<Data MonsterID="519" Level="125" Life="950000" Mana="950000" Shield="0" Stamina="950000" AttackMin="1175" AttackMax="1410" AttackRate="1410" Def="525" DefRate="525" ItemBag="" />
+		<Data MonsterID="520" Level="125" Life="1045000" Mana="1045000" Shield="0" Stamina="1045000" AttackMin="1316" AttackMax="1551" AttackRate="1551" Def="595" DefRate="595" ItemBag="" />
+		<Data MonsterID="521" Level="125" Life="1102000" Mana="1102000" Shield="0" Stamina="1102000" AttackMin="1410" AttackMax="1645" AttackRate="1645" Def="700" DefRate="700" ItemBag="" />
+		<Data MonsterID="524" Level="2" Life="356250" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="613" DefRate="613" ItemBag="" />
+		<Data MonsterID="525" Level="2" Life="356250" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="613" DefRate="613" ItemBag="" />
+		<Data MonsterID="526" Level="2" Life="356250" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="613" DefRate="613" ItemBag="Imperial Fortress - Statue" />
+		<Data MonsterID="527" Level="2" Life="356250" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="613" DefRate="613" ItemBag="" />
+		<Data MonsterID="528" Level="2" Life="356250" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="613" DefRate="613" ItemBag="" />
+    </EventLevel>
+
+    <EventLevel Level="5">
+		<Data MonsterID="504" Level="137" Life="2450000" Mana="2450000" Shield="0" Stamina="2450000" AttackMin="2250" AttackMax="2500" AttackRate="2500" Def="1435" DefRate="1435" ItemBag="Imperial Fortress - Sunday 401 - 600" />
+		<Data MonsterID="505" Level="137" Life="1822800" Mana="1822800" Shield="0" Stamina="1822800" AttackMin="2100" AttackMax="2350" AttackRate="2350" Def="1230" DefRate="1230" ItemBag="" />
+		<Data MonsterID="506" Level="137" Life="1568000" Mana="1568000" Shield="0" Stamina="1568000" AttackMin="1950" AttackMax="2200" AttackRate="2200" Def="1148" DefRate="1148" ItemBag="" />
+		<Data MonsterID="507" Level="137" Life="1568000" Mana="1568000" Shield="0" Stamina="1568000" AttackMin="1950" AttackMax="2200" AttackRate="2200" Def="1148" DefRate="1148" ItemBag="" />
+		<Data MonsterID="508" Level="137" Life="1528800" Mana="1528800" Shield="0" Stamina="1528800" AttackMin="1800" AttackMax="2050" AttackRate="2050" Def="1107" DefRate="1107" ItemBag="" />
+		<Data MonsterID="509" Level="137" Life="1528800" Mana="1528800" Shield="0" Stamina="1528800" AttackMin="1800" AttackMax="2050" AttackRate="2050" Def="1107" DefRate="1107" ItemBag="" />
+		<Data MonsterID="510" Level="137" Life="1528800" Mana="1528800" Shield="0" Stamina="1528800" AttackMin="1800" AttackMax="2050" AttackRate="2050" Def="1107" DefRate="1107" ItemBag="" />
+		<Data MonsterID="511" Level="137" Life="1528800" Mana="1528800" Shield="0" Stamina="1528800" AttackMin="1800" AttackMax="2050" AttackRate="2050" Def="1107" DefRate="1107" ItemBag="" />
+		<Data MonsterID="512" Level="137" Life="1274000" Mana="1274000" Shield="0" Stamina="1274000" AttackMin="1650" AttackMax="1900" AttackRate="1900" Def="902" DefRate="902" ItemBag="" />
+		<Data MonsterID="513" Level="137" Life="1274000" Mana="1274000" Shield="0" Stamina="1274000" AttackMin="1650" AttackMax="1900" AttackRate="1900" Def="902" DefRate="902" ItemBag="" />
+		<Data MonsterID="514" Level="137" Life="1274000" Mana="1274000" Shield="0" Stamina="1274000" AttackMin="1650" AttackMax="1900" AttackRate="1900" Def="902" DefRate="902" ItemBag="" />
+		<Data MonsterID="515" Level="137" Life="1274000" Mana="1274000" Shield="0" Stamina="1274000" AttackMin="1650" AttackMax="1900" AttackRate="1900" Def="902" DefRate="902" ItemBag="" />
+		<Data MonsterID="516" Level="137" Life="1274000" Mana="1274000" Shield="0" Stamina="1274000" AttackMin="1650" AttackMax="1900" AttackRate="1900" Def="902" DefRate="902" ItemBag="" />
+		<Data MonsterID="517" Level="137" Life="1274000" Mana="1274000" Shield="0" Stamina="1274000" AttackMin="1650" AttackMax="1900" AttackRate="1900" Def="902" DefRate="902" ItemBag="" />
+		<Data MonsterID="518" Level="137" Life="1136800" Mana="1136800" Shield="0" Stamina="1136800" AttackMin="1500" AttackMax="1750" AttackRate="1750" Def="820" DefRate="820" ItemBag="" />
+		<Data MonsterID="519" Level="137" Life="980000" Mana="980000" Shield="0" Stamina="980000" AttackMin="1250" AttackMax="1500" AttackRate="1500" Def="615" DefRate="615" ItemBag="" />
+		<Data MonsterID="520" Level="137" Life="1078000" Mana="1078000" Shield="0" Stamina="1078000" AttackMin="1400" AttackMax="1650" AttackRate="1650" Def="697" DefRate="697" ItemBag="" />
+		<Data MonsterID="521" Level="137" Life="1136800" Mana="1136800" Shield="0" Stamina="1136800" AttackMin="1500" AttackMax="1750" AttackRate="1750" Def="820" DefRate="820" ItemBag="" />
+		<Data MonsterID="524" Level="2" Life="367500" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="718" DefRate="718" ItemBag="" />
+		<Data MonsterID="525" Level="2" Life="367500" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="718" DefRate="718" ItemBag="" />
+		<Data MonsterID="526" Level="2" Life="367500" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="718" DefRate="718" ItemBag="Imperial Fortress - Statue" />
+		<Data MonsterID="527" Level="2" Life="367500" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="718" DefRate="718" ItemBag="" />
+		<Data MonsterID="528" Level="2" Life="367500" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="718" DefRate="718" ItemBag="" />
+    </EventLevel>
+
+    <EventLevel Level="6">
+		<Data MonsterID="504" Level="145" Life="2500000" Mana="2500000" Shield="0" Stamina="2500000" AttackMin="2385" AttackMax="2650" AttackRate="2650" Def="1575" DefRate="1575" ItemBag="Imperial Fortress - Sunday 401 - 600" />
+		<Data MonsterID="505" Level="145" Life="1860000" Mana="1860000" Shield="0" Stamina="1860000" AttackMin="2226" AttackMax="2491" AttackRate="2491" Def="1350" DefRate="1350" ItemBag="" />
+		<Data MonsterID="506" Level="145" Life="1600000" Mana="1600000" Shield="0" Stamina="1600000" AttackMin="2067" AttackMax="2332" AttackRate="2332" Def="1260" DefRate="1260" ItemBag="" />
+		<Data MonsterID="507" Level="145" Life="1600000" Mana="1600000" Shield="0" Stamina="1600000" AttackMin="2067" AttackMax="2332" AttackRate="2332" Def="1260" DefRate="1260" ItemBag="" />
+		<Data MonsterID="508" Level="145" Life="1560000" Mana="1560000" Shield="0" Stamina="1560000" AttackMin="1908" AttackMax="2173" AttackRate="2173" Def="1215" DefRate="1215" ItemBag="" />
+		<Data MonsterID="509" Level="145" Life="1560000" Mana="1560000" Shield="0" Stamina="1560000" AttackMin="1908" AttackMax="2173" AttackRate="2173" Def="1215" DefRate="1215" ItemBag="" />
+		<Data MonsterID="510" Level="145" Life="1560000" Mana="1560000" Shield="0" Stamina="1560000" AttackMin="1908" AttackMax="2173" AttackRate="2173" Def="1215" DefRate="1215" ItemBag="" />
+		<Data MonsterID="511" Level="145" Life="1560000" Mana="1560000" Shield="0" Stamina="1560000" AttackMin="1908" AttackMax="2173" AttackRate="2173" Def="1215" DefRate="1215" ItemBag="" />
+		<Data MonsterID="512" Level="145" Life="1300000" Mana="1300000" Shield="0" Stamina="1300000" AttackMin="1749" AttackMax="2014" AttackRate="2014" Def="990" DefRate="990" ItemBag="" />
+		<Data MonsterID="513" Level="145" Life="1300000" Mana="1300000" Shield="0" Stamina="1300000" AttackMin="1749" AttackMax="2014" AttackRate="2014" Def="990" DefRate="990" ItemBag="" />
+		<Data MonsterID="514" Level="145" Life="1300000" Mana="1300000" Shield="0" Stamina="1300000" AttackMin="1749" AttackMax="2014" AttackRate="2014" Def="990" DefRate="990" ItemBag="" />
+		<Data MonsterID="515" Level="145" Life="1300000" Mana="1300000" Shield="0" Stamina="1300000" AttackMin="1749" AttackMax="2014" AttackRate="2014" Def="990" DefRate="990" ItemBag="" />
+		<Data MonsterID="516" Level="145" Life="1300000" Mana="1300000" Shield="0" Stamina="1300000" AttackMin="1749" AttackMax="2014" AttackRate="2014" Def="990" DefRate="990" ItemBag="" />
+		<Data MonsterID="517" Level="145" Life="1300000" Mana="1300000" Shield="0" Stamina="1300000" AttackMin="1749" AttackMax="2014" AttackRate="2014" Def="990" DefRate="990" ItemBag="" />
+		<Data MonsterID="518" Level="145" Life="1160000" Mana="1160000" Shield="0" Stamina="1160000" AttackMin="1590" AttackMax="1855" AttackRate="1855" Def="900" DefRate="900" ItemBag="" />
+		<Data MonsterID="519" Level="145" Life="1000000" Mana="1000000" Shield="0" Stamina="1000000" AttackMin="1325" AttackMax="1590" AttackRate="1590" Def="675" DefRate="675" ItemBag="" />
+		<Data MonsterID="520" Level="145" Life="1100000" Mana="1100000" Shield="0" Stamina="1100000" AttackMin="1484" AttackMax="1749" AttackRate="1749" Def="765" DefRate="765" ItemBag="" />
+		<Data MonsterID="521" Level="145" Life="1160000" Mana="1160000" Shield="0" Stamina="1160000" AttackMin="1590" AttackMax="1855" AttackRate="1855" Def="900" DefRate="900" ItemBag="" />
+		<Data MonsterID="524" Level="2" Life="375000" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="788" DefRate="788" ItemBag="" />
+		<Data MonsterID="525" Level="2" Life="375000" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="788" DefRate="788" ItemBag="" />
+		<Data MonsterID="526" Level="2" Life="375000" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="788" DefRate="788" ItemBag="Imperial Fortress - Statue" />
+		<Data MonsterID="527" Level="2" Life="375000" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="788" DefRate="788" ItemBag="" />
+		<Data MonsterID="528" Level="2" Life="375000" Mana="0" Shield="0" Stamina="0" AttackMin="0" AttackMax="0" AttackRate="0" Def="788" DefRate="788" ItemBag="" />
+    </EventLevel>
+</EventImperialFortressMonsterSettings>

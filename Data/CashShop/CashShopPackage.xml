@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==              File Name: CashShopPackage                ==
+// ============================================================
+-->
+
+<CashShopPackage>
+    <Category ID="10">
+        <Package ID="1" Position="1" Name="Seal of Ascension" Description="*Experience +20%." DisPlayItem="6699" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="2" Position="2" Name="Seal of Wealth" Description="*Experience +20%.#*Item Drop +50%." DisPlayItem="6700" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="3" Position="3" Name="Scroll of Quickness" Description="*Attack Speed +15." DisPlayItem="7240" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="4" Position="4" Name="Scroll of Defense" Description="*Defense +60." DisPlayItem="7241" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="5" Position="5" Name="Scroll of Wrath" Description="*Attack Power +30." DisPlayItem="7242" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="6" Position="6" Name="Scroll of Wizardry" Description="*Wizardy +30." DisPlayItem="7243" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="7" Position="7" Name="Scroll of Health" Description="*HP +200." DisPlayItem="7244" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="8" Position="8" Name="Scroll of Mana" Description="*MP +300." DisPlayItem="7245" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="9" Position="9" Name="Scroll of Battle" Description="*Critical Damage +20%." DisPlayItem="7265" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="10" Position="10" Name="Scroll of Strength" Description="*Excellent Damage +20%." DisPlayItem="7266" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="11" Position="11" Name="Scroll of Healing" Description="*Automatic HP Recovery +3%. #*HP +100." DisPlayItem="7308" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="23" Position="12" Name="Max Stamina Boost Aura" Description="*AG +Level * 1." DisPlayItem="6760" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="24" Position="13" Name="Max Shield Defense Boost Aura" Description="*SD +Level * 5." DisPlayItem="6761" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="25" Position="14" Name="Talisman of Guardian" Description="*No penalty for dying." DisPlayItem="6737" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="26" Position="15" Name="Talisman of Item Protection" Description="*Keeps item durable." DisPlayItem="6738" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="27" Position="16" Name="Elixir of Strength" Description="*Strength +50." DisPlayItem="7246" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="28" Position="17" Name="Elixir of Agility" Description="*Agility +50." DisPlayItem="7247" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="29" Position="18" Name="Elixir of Health" Description="*Vitality +50." DisPlayItem="7248" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="30" Position="19" Name="Elixir of Energy" Description="*Energy +50." DisPlayItem="7249" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="31" Position="20" Name="Elixir of Control" Description="*Leadership +50." DisPlayItem="7250" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+    </Category>
+
+    <Category ID="11">
+        <Package ID="32" Position="1" Name="Blood Castle Ticket (10)" Description="*Allows enter Blood Castle." DisPlayItem="6703" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="33" Position="2" Name="Devil Square Ticket (10)" Description="*Allows enter Devil Square." DisPlayItem="6702" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="34" Position="3" Name="Chaos Castle Ticket (10)" Description="*Allows enter Chaos Castle." DisPlayItem="6777" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="39" Position="5" Name="Elite Healing Potion" Description="*Restore HP by 100%." DisPlayItem="7238" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="40" Position="6" Name="Elite Mana Potion" Description="*Restore Mana by 100%." DisPlayItem="7239" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="41" Position="7" Name="Elite SD Potion" Description="*Restore SD by 65%." DisPlayItem="7301" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+    </Category>
+
+    <Category ID="12">
+        <Package ID="44" Position="1" Name="Talisman of Luck" Description="" DisPlayItem="7221" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="152" Position="2" Name="Talisman of Luck Pack x5" Description="" DisPlayItem="7221" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="153" Position="3" Name="Talisman of Luck Pack x10" Description="" DisPlayItem="7221" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="45" Position="4" Name="Talisman of Chaos Assembly" Description="" DisPlayItem="7264" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="154" Position="5" Name="Talisman of Chaos Assembly Pack x5" Description="" DisPlayItem="7264" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="155" Position="6" Name="Talisman of Chaos Assembly Pack x10" Description="" DisPlayItem="7264" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="46" Position="7" Name="Elemental Talisman of Luck" Description="" DisPlayItem="7357" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="156" Position="8" Name="Elemental Talisman of Luck Pack x5" Description="" DisPlayItem="7357" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="157" Position="9" Name="Elemental Talisman of Luck Pack x10" Description="" DisPlayItem="7357" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="47" Position="10" Name="Elemental Talisman of Chaos" Description="" DisPlayItem="7358" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="158" Position="11" Name="Elemental Talisman of Chaos Pack x5" Description="" DisPlayItem="7358" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="159" Position="12" Name="Elemental Talisman of Chaos Pack x10" Description="" DisPlayItem="7358" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+    </Category>
+
+    <Category ID="13">
+        <Package ID="48" Position="1" Name="Demon" Description="*Attack, Wizardy and Curse +40%. #*Attack Speed +10." DisPlayItem="6720" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="49" Position="2" Name="Spirit of Guardian" Description="*Reduces damage from monsters by 30%. #*HP +50." DisPlayItem="6721" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="51" Position="3" Name="Panda Ring" Description="*Zen +50%. #*Attack, Wizardy and Curse +30." DisPlayItem="6732" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="53" Position="4" Name="Brown Panda Ring" Description="*Zen +50%. #*Attack, Wizardy and Curse +30." DisPlayItem="6734" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="54" Position="5" Name="Pet Panda" Description="*Auto-collects zen around you. #*Defense +50." DisPlayItem="6736" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="55" Position="6" Name="Skeleton Transformation Ring" Description="*Attack, Wizardy and Curse +40." DisPlayItem="6778" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="56" Position="7" Name="Pet Skeleton" Description="*Attack, Wizardy and Curse +20%. #*Attack Speed +10." DisPlayItem="6779" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="57" Position="8" Name="Robot Knight Ring" Description="*Attack, Wizardy and Curse +30. #*Defense +10." DisPlayItem="6819" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="58" Position="9" Name="Mini Robot Ring" Description="*Attack, Wizardy and Curse +30. #*Attack Speed +7." DisPlayItem="6820" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="59" Position="10" Name="Great Heavenly Mage Ring" Description="*Attack, Wizardy and Curse +40." DisPlayItem="6821" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="60" Position="11" Name="Lethal Wizard Ring" Description="*Attack Power +10%. #*Wizardy +10%. #*Attack Speed +10." DisPlayItem="6763" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="61" Position="12" Name="Sapphire Ring" Description="*Automatic HP Recovery +3%. #*MP +4%." DisPlayItem="6765" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="62" Position="13" Name="Ruby Ring" Description="*Automatic HP Recovery +3%. #*HP +4%." DisPlayItem="6766" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="63" Position="14" Name="Topaz Ring" Description="*Automatic HP Recovery +3%. #*Zen +30%." DisPlayItem="6767" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="64" Position="15" Name="Amethyst Ring" Description="*Automatic HP Recovery +3%. #*Damage Decrease +4%." DisPlayItem="6768" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="65" Position="16" Name="Ruby Necklace" Description="*Automatic HP Recovery +3%. #*Excellent Damage Rate +10%." DisPlayItem="6769" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="66" Position="17" Name="Emerald Necklace" Description="*Automatic HP Recovery +3%. #*Attack Speed +7." DisPlayItem="6770" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="67" Position="18" Name="Sapphire Necklace" Description="*Automatic HP Recovery +3%. #*Mana After Monster Kill /8." DisPlayItem="6771" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="68" Position="19" Name="Hawk Figurine" Description="*Critical Damage +10." DisPlayItem="6784" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="69" Position="20" Name="Goat Figurine" Description="*Excellent Damage +10." DisPlayItem="6785" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="70" Position="21" Name="Oak Charm" Description="*HP +50." DisPlayItem="6785" Flags="6786" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="71" Position="22" Name="Golden Oak Charm" Description="*HP +100. #*SD +500." DisPlayItem="6788" Flags="6786" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="72" Position="23" Name="Worn Horseshoe" Description="*Item Drop +10%." DisPlayItem="6790" Flags="6786" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+    </Category>
+
+    <Category ID="14">
+        <Package ID="73" Position="1" Name="Expanded Inventory" Description="*Expands your inventory adding 32 additional slots. #*Press key K to open expanded slots." DisPlayItem="7330" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="74" Position="2" Name="Expanded Warehouse" Description="*Expands your warehouse adding 120 additional slots." DisPlayItem="7331" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="76" Position="4" Name="Strength Reset Fruit" Description="*Reduces Strength points and let you distribute them again." DisPlayItem="6710" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="77" Position="5" Name="Agility Reset Fruit" Description="*Reduces Agility points and let you distribute them again." DisPlayItem="6711" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="78" Position="6" Name="Vitality Reset Fruit" Description="*Reduces Vitality points and let you distribute them again." DisPlayItem="6712" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="79" Position="7" Name="Energy Reset Fruit" Description="*Reduces Energy points and let you distribute them again." DisPlayItem="6713" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="80" Position="8" Name="Command Reset Fruit" Description="*Reduces Command points and let you distribute them again." DisPlayItem="6714" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="81" Position="9" Name="Scroll of Green Oblivion" Description="*It resets Green section of Master skill tree." DisPlayItem="6808" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="82" Position="10" Name="Scroll of Blue Oblivion" Description="*It resets Blue section of Master skill tree." DisPlayItem="6809" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="83" Position="11" Name="Scroll of Red Oblivion" Description="*It resets Red section of Master skill tree." DisPlayItem="6810" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="84" Position="12" Name="Scroll of Gray Oblivion" Description="*It resets the entire Master skill tree." DisPlayItem="6811" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="125" Position="22" Name="Tradeable Seal" Description="*Increase exchange count for Pentagrams." DisPlayItem="7377" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="126" Position="23" Name="Blessing of Spirit" Description="*100% success while removing Errtels from Pentagram." DisPlayItem="7488" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="196" Position="24" Name="Scroll of Golden Oblivion" Description="*It resets the entire 4th skill tree." DisPlayItem="6811" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+    </Category>
+
+    <Category ID="15">
+        <Package ID="89" Position="1" Name="Credit Coin x 1" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="90" Position="2" Name="Credit Coin x 5" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="91" Position="3" Name="Credit Coin x 10" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="92" Position="4" Name="Credit Coin x 50" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="93" Position="5" Name="Credit Coin x 100" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="94" Position="6" Name="Credit Coin x 500" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="95" Position="7" Name="Credit Coin x 1000" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="128" Position="8" Name="Credit Coin x 5000" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="129" Position="9" Name="Credit Coin x 10000" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="197" Position="10" Name="Credit Coin x 50000" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="198" Position="11" Name="Credit Coin x 100000" Description="*This coin represents credtis. #*You can use it to trade for items." DisPlayItem="7288" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+    </Category>
+
+    <Category ID="16">
+        <Package ID="138" Position="0" Name="Bless of Light(Greater)" Description="*+200% Experience for 30 minutes." DisPlayItem="7392" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="199" Position="1" Name="Talisman of Ascension I" Description="*+50% Experience while talisman is active. #*Cant be used while other Talisman of Ascension is active." DisPlayItem="6833" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="200" Position="2" Name="Talisman of Ascension II" Description="*+100% Experience while talisman is active. #*Cant be used while other Talisman of Ascension is active." DisPlayItem="6834" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="201" Position="2" Name="Talisman of Ascension III" Description="*+200% Experience while talisman is active. #*Cant be used while other Talisman of Ascension is active." DisPlayItem="6835" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+        <Package ID="203" Position="1" Name="Switch Mode Scroll" Description="Reduces PC resource usage." DisPlayItem="7621" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />
+    </Category>
+
+    <Category ID="20">
+        <Package ID="170" Position="0" Name="Satan" Description="*Attack, Wizardy and Curse +30%." DisPlayItem="6657" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="171" Position="1" Name="Demon" Description="*Attack, Wizardy and Curse +40%. #*Attack Speed +10." DisPlayItem="6720" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="172" Position="2" Name="Scroll of Defense" Description="*Defense +60." DisPlayItem="7241" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="173" Position="3" Name="Scroll of Wrath" Description="*Attack Power +30." DisPlayItem="7242" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="174" Position="4" Name="Scroll of Wizardry" Description="*Wizardy +30." DisPlayItem="7243" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="175" Position="5" Name="Elixir of Strength" Description="*Strength +50." DisPlayItem="7246" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="176" Position="6" Name="Elixir of Agility" Description="*Agility +50." DisPlayItem="7247" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="177" Position="7" Name="Elixir of Health" Description="*Vitality +50." DisPlayItem="7248" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="178" Position="8" Name="Elixir of Energy" Description="*Energy +50." DisPlayItem="7249" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="179" Position="9" Name="Elixir of Control" Description="*Leadership +50." DisPlayItem="7250" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="188" Position="2" Name="Spirit of Guardian" Description="*Reduces damage from monsters by 30%. #*HP +50." DisPlayItem="6721" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="194" Position="3" Name="Seal of Ascension" Description="*Experience +20%." DisPlayItem="6699" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+    </Category>
+    
+    <Category ID="21">
+        <Package ID="180" Position="0" Name="Invisibility Cloak+5" Description="*Allows enter Blood Castle 5." DisPlayItem="6674" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="181" Position="1" Name="Invisibility Cloak+6" Description="*Allows enter Blood Castle 6." DisPlayItem="6674" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="182" Position="2" Name="Invisibility Cloak+7" Description="*Allows enter Blood Castle 7." DisPlayItem="6674" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="183" Position="3" Name="Devils Invitation+5" Description="*Allows enter Devil Square 5." DisPlayItem="7187" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="184" Position="4" Name="Devils Invitation+6" Description="*Allows enter Devil Square 6." DisPlayItem="7187" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="185" Position="5" Name="Devils Invitation+7" Description="*Allows enter Devil Square 7." DisPlayItem="7187" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="186" Position="6" Name="Gaions Order" Description="*Allows enter Imperial Fortress" DisPlayItem="7270" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="187" Position="7" Name="Card Piece" Description="*Required to make Card Deck to play mini games." DisPlayItem="7383" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="195" Position="8" Name="Card Deck" Description="*Required to play mini games." DisPlayItem="7384" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+    </Category>
+
+    <Category ID="22">
+        <Package ID="189" Position="0" Name="Strength Reset Fruit" Description="*Reduces Strength points and let you distribute them again." DisPlayItem="6710" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="190" Position="1" Name="Agility Reset Fruit" Description="*Reduces Agility points and let you distribute them again." DisPlayItem="6711" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="191" Position="2" Name="Vitality Reset Fruit" Description="*Reduces Vitality points and let you distribute them again." DisPlayItem="6712" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="192" Position="3" Name="Energy Reset Fruit" Description="*Reduces Energy points and let you distribute them again." DisPlayItem="6713" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="193" Position="4" Name="Command Reset Fruit" Description="*Reduces Command points and let you distribute them again." DisPlayItem="6714" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+    </Category>
+
+    <Category ID="30">
+        <Package ID="75" Position="0" Name="Indulgence" Description="*Restores your pk status." DisPlayItem="6716" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+        <Package ID="202" Position="1" Name="Green Chaos Box" Description="*Can obtain:#*Jewel Pack(30).#*Mysterious Stone.#*Seed Sphere[Lvl 1/2]." DisPlayItem="7223" Flags="3265" PriceType="0" StartDate="20100526194000" EndDate="20190531124000" />   
+    </Category>
+</CashShopPackage>

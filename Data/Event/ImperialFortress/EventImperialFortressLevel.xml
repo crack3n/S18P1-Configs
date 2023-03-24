@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==        File Name: EventImperialFortressLevel           ==
+// ============================================================
+-->
+
+<EventImperialFortressLevel>
+	<Data ID="0" LevelMin="15" LevelMax="179" Exp="900000" />
+	<Data ID="1" LevelMin="180" LevelMax="269" Exp="1350000" />
+	<Data ID="2" LevelMin="270" LevelMax="349" Exp="1750000" />
+	<Data ID="3" LevelMin="350" LevelMax="399" Exp="2000000" />
+	<Data ID="4" LevelMin="400" LevelMax="500" Exp="2500000" />
+	<Data ID="5" LevelMin="501" LevelMax="650" Exp="2800000" />
+	<Data ID="6" LevelMin="651" LevelMax="2000" Exp="3000000" />
+</EventImperialFortressLevel>

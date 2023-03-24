@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==            File Name: ItemSocketSeedSphere             ==
+// ============================================================
+-->
+
+<ItemSocketSeedSphere>
+	<Data ItemId="6244" Attribute="1" Rank="0" NextItemID="6250" />
+	<Data ItemId="6245" Attribute="2" Rank="0" NextItemID="6251" />
+	<Data ItemId="6246" Attribute="3" Rank="0" NextItemID="6252" />
+	<Data ItemId="6247" Attribute="4" Rank="0" NextItemID="6253" />
+	<Data ItemId="6248" Attribute="5" Rank="0" NextItemID="6254" />
+	<Data ItemId="6249" Attribute="6" Rank="0" NextItemID="6255" />
+	<Data ItemId="6250" Attribute="1" Rank="1" NextItemID="6256" />
+	<Data ItemId="6251" Attribute="2" Rank="1" NextItemID="6257" />
+	<Data ItemId="6252" Attribute="3" Rank="1" NextItemID="6258" />
+	<Data ItemId="6253" Attribute="4" Rank="1" NextItemID="6259" />
+	<Data ItemId="6254" Attribute="5" Rank="1" NextItemID="6260" />
+	<Data ItemId="6255" Attribute="6" Rank="1" NextItemID="6261" />
+	<Data ItemId="6256" Attribute="1" Rank="2" NextItemID="6262" />
+	<Data ItemId="6257" Attribute="2" Rank="2" NextItemID="6263" />
+	<Data ItemId="6258" Attribute="3" Rank="2" NextItemID="6264" />
+	<Data ItemId="6259" Attribute="4" Rank="2" NextItemID="6265" />
+	<Data ItemId="6260" Attribute="5" Rank="2" NextItemID="6266" />
+	<Data ItemId="6261" Attribute="6" Rank="2" NextItemID="6267" />
+	<Data ItemId="6262" Attribute="1" Rank="3" NextItemID="6268" />
+	<Data ItemId="6263" Attribute="2" Rank="3" NextItemID="6269" />
+	<Data ItemId="6264" Attribute="3" Rank="3" NextItemID="6270" />
+	<Data ItemId="6265" Attribute="4" Rank="3" NextItemID="6271" />
+	<Data ItemId="6266" Attribute="5" Rank="3" NextItemID="6272" />
+	<Data ItemId="6267" Attribute="6" Rank="3" NextItemID="6273" />
+	<Data ItemId="6268" Attribute="1" Rank="4" NextItemID="6455" />
+	<Data ItemId="6269" Attribute="2" Rank="4" NextItemID="6456" />
+	<Data ItemId="6270" Attribute="3" Rank="4" NextItemID="6457" />
+	<Data ItemId="6271" Attribute="4" Rank="4" NextItemID="6458" />
+	<Data ItemId="6272" Attribute="5" Rank="4" NextItemID="6459" />
+	<Data ItemId="6273" Attribute="6" Rank="4" NextItemID="6460" />
+	<Data ItemId="6455" Attribute="1" Rank="5" NextItemID="6461" />
+	<Data ItemId="6456" Attribute="2" Rank="5" NextItemID="6462" />
+	<Data ItemId="6457" Attribute="3" Rank="5" NextItemID="6463" />
+	<Data ItemId="6458" Attribute="4" Rank="5" NextItemID="6464" />
+	<Data ItemId="6459" Attribute="5" Rank="5" NextItemID="6465" />
+	<Data ItemId="6460" Attribute="6" Rank="5" NextItemID="6466" />
+	<Data ItemId="6461" Attribute="1" Rank="6" NextItemID="6467" />
+	<Data ItemId="6462" Attribute="2" Rank="6" NextItemID="6468" />
+	<Data ItemId="6463" Attribute="3" Rank="6" NextItemID="6469" />
+	<Data ItemId="6464" Attribute="4" Rank="6" NextItemID="6470" />
+	<Data ItemId="6465" Attribute="5" Rank="6" NextItemID="6471" />
+	<Data ItemId="6466" Attribute="6" Rank="6" NextItemID="6472" />
+	<Data ItemId="6467" Attribute="1" Rank="7" NextItemID="6473" />
+	<Data ItemId="6468" Attribute="2" Rank="7" NextItemID="6474" />
+	<Data ItemId="6469" Attribute="3" Rank="7" NextItemID="6475" />
+	<Data ItemId="6470" Attribute="4" Rank="7" NextItemID="6476" />
+	<Data ItemId="6471" Attribute="5" Rank="7" NextItemID="6477" />
+	<Data ItemId="6472" Attribute="6" Rank="7" NextItemID="6478" />
+	<Data ItemId="6473" Attribute="1" Rank="8" NextItemID="6479" />
+	<Data ItemId="6474" Attribute="2" Rank="8" NextItemID="6480" />
+	<Data ItemId="6475" Attribute="3" Rank="8" NextItemID="6481" />
+	<Data ItemId="6476" Attribute="4" Rank="8" NextItemID="6482" />
+	<Data ItemId="6477" Attribute="5" Rank="8" NextItemID="6483" />
+	<Data ItemId="6478" Attribute="6" Rank="8" NextItemID="6484" />
+	<Data ItemId="6479" Attribute="1" Rank="9" NextItemID="-1" />
+	<Data ItemId="6480" Attribute="2" Rank="9" NextItemID="-1" />
+	<Data ItemId="6481" Attribute="3" Rank="9" NextItemID="-1" />
+	<Data ItemId="6482" Attribute="4" Rank="9" NextItemID="-1" />
+	<Data ItemId="6483" Attribute="5" Rank="9" NextItemID="-1" />
+	<Data ItemId="6484" Attribute="6" Rank="9" NextItemID="-1" />
+</ItemSocketSeedSphere>

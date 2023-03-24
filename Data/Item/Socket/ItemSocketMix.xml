@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==               File Name: ItemSocketMix                 ==
+// ============================================================
+-->
+
+<ItemSocketMix>
+	<Data Rank="0" Price="10000000" SuccesRate="90" ReqRune="4" />
+	<Data Rank="1" Price="13000000" SuccesRate="89" ReqRune="5" />
+	<Data Rank="2" Price="16000000" SuccesRate="89" ReqRune="5" />
+	<Data Rank="3" Price="19000000" SuccesRate="89" ReqRune="5" />
+	<Data Rank="4" Price="22000000" SuccesRate="88" ReqRune="6" />
+	<Data Rank="5" Price="25000000" SuccesRate="88" ReqRune="7" />
+	<Data Rank="6" Price="28000000" SuccesRate="88" ReqRune="8" />
+	<Data Rank="7" Price="31000000" SuccesRate="87" ReqRune="9" />
+	<Data Rank="8" Price="34000000" SuccesRate="87" ReqRune="10" />
+</ItemSocketMix>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==             File Name: MixLuckyTemplate                ==
+// ============================================================
+-->
+
+<MixLuckyTemplate>
+	<Mix TicketCat="13" TicketIndex="137" TicketLevel="0" ItemCat="7" ItemIndex="62" />
+	<Mix TicketCat="13" TicketIndex="137" TicketLevel="0" ItemCat="7" ItemIndex="63" />
+	<Mix TicketCat="13" TicketIndex="137" TicketLevel="0" ItemCat="7" ItemIndex="64" />
+	<Mix TicketCat="13" TicketIndex="137" TicketLevel="0" ItemCat="7" ItemIndex="65" />
+	<Mix TicketCat="13" TicketIndex="135" TicketLevel="0" ItemCat="8" ItemIndex="62" />
+	<Mix TicketCat="13" TicketIndex="135" TicketLevel="0" ItemCat="8" ItemIndex="63" />
+	<Mix TicketCat="13" TicketIndex="135" TicketLevel="0" ItemCat="8" ItemIndex="64" />
+	<Mix TicketCat="13" TicketIndex="135" TicketLevel="0" ItemCat="8" ItemIndex="65" />
+	<Mix TicketCat="13" TicketIndex="136" TicketLevel="0" ItemCat="9" ItemIndex="62" />
+	<Mix TicketCat="13" TicketIndex="136" TicketLevel="0" ItemCat="9" ItemIndex="63" />
+	<Mix TicketCat="13" TicketIndex="136" TicketLevel="0" ItemCat="9" ItemIndex="64" />
+	<Mix TicketCat="13" TicketIndex="136" TicketLevel="0" ItemCat="9" ItemIndex="65" />
+	<Mix TicketCat="13" TicketIndex="138" TicketLevel="0" ItemCat="10" ItemIndex="62" />
+	<Mix TicketCat="13" TicketIndex="138" TicketLevel="0" ItemCat="10" ItemIndex="63" />
+	<Mix TicketCat="13" TicketIndex="138" TicketLevel="0" ItemCat="10" ItemIndex="64" />
+	<Mix TicketCat="13" TicketIndex="138" TicketLevel="0" ItemCat="10" ItemIndex="65" />
+	<Mix TicketCat="13" TicketIndex="139" TicketLevel="0" ItemCat="11" ItemIndex="62" />
+	<Mix TicketCat="13" TicketIndex="139" TicketLevel="0" ItemCat="11" ItemIndex="63" />
+	<Mix TicketCat="13" TicketIndex="139" TicketLevel="0" ItemCat="11" ItemIndex="64" />
+	<Mix TicketCat="13" TicketIndex="139" TicketLevel="0" ItemCat="11" ItemIndex="65" />
+	<Mix TicketCat="13" TicketIndex="142" TicketLevel="0" ItemCat="7" ItemIndex="66" />
+	<Mix TicketCat="13" TicketIndex="142" TicketLevel="0" ItemCat="7" ItemIndex="67" />
+	<Mix TicketCat="13" TicketIndex="142" TicketLevel="0" ItemCat="7" ItemIndex="68" />
+	<Mix TicketCat="13" TicketIndex="142" TicketLevel="0" ItemCat="7" ItemIndex="69" />
+	<Mix TicketCat="13" TicketIndex="142" TicketLevel="0" ItemCat="7" ItemIndex="70" />
+	<Mix TicketCat="13" TicketIndex="142" TicketLevel="0" ItemCat="7" ItemIndex="72" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="66" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="67" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="68" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="69" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="70" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="71" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="72" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="66" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="67" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="68" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="69" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="70" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="71" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="72" />
+	<Mix TicketCat="13" TicketIndex="143" TicketLevel="0" ItemCat="10" ItemIndex="66" />
+	<Mix TicketCat="13" TicketIndex="143" TicketLevel="0" ItemCat="10" ItemIndex="67" />
+	<Mix TicketCat="13" TicketIndex="143" TicketLevel="0" ItemCat="10" ItemIndex="68" />
+	<Mix TicketCat="13" TicketIndex="143" TicketLevel="0" ItemCat="10" ItemIndex="69" />
+	<Mix TicketCat="13" TicketIndex="143" TicketLevel="0" ItemCat="10" ItemIndex="70" />
+	<Mix TicketCat="13" TicketIndex="143" TicketLevel="0" ItemCat="10" ItemIndex="71" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="66" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="67" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="68" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="69" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="70" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="71" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="72" />
+	<Mix TicketCat="13" TicketIndex="137" TicketLevel="0" ItemCat="7" ItemIndex="96" />
+	<Mix TicketCat="13" TicketIndex="135" TicketLevel="0" ItemCat="8" ItemIndex="96" />
+	<Mix TicketCat="13" TicketIndex="136" TicketLevel="0" ItemCat="9" ItemIndex="96" />
+	<Mix TicketCat="13" TicketIndex="138" TicketLevel="0" ItemCat="10" ItemIndex="96" />
+	<Mix TicketCat="13" TicketIndex="139" TicketLevel="0" ItemCat="11" ItemIndex="96" />
+	<Mix TicketCat="13" TicketIndex="142" TicketLevel="0" ItemCat="7" ItemIndex="97" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="97" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="97" />
+	<Mix TicketCat="13" TicketIndex="143" TicketLevel="0" ItemCat="10" ItemIndex="97" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="97" />
+	<Mix TicketCat="13" TicketIndex="137" TicketLevel="0" ItemCat="7" ItemIndex="124" />
+	<Mix TicketCat="13" TicketIndex="135" TicketLevel="0" ItemCat="8" ItemIndex="124" />
+	<Mix TicketCat="13" TicketIndex="136" TicketLevel="0" ItemCat="9" ItemIndex="124" />
+	<Mix TicketCat="13" TicketIndex="138" TicketLevel="0" ItemCat="10" ItemIndex="124" />
+	<Mix TicketCat="13" TicketIndex="139" TicketLevel="0" ItemCat="11" ItemIndex="124" />
+	<Mix TicketCat="13" TicketIndex="142" TicketLevel="0" ItemCat="7" ItemIndex="125" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="125" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="125" />
+	<Mix TicketCat="13" TicketIndex="143" TicketLevel="0" ItemCat="10" ItemIndex="125" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="125" />
+	<Mix TicketCat="13" TicketIndex="137" TicketLevel="0" ItemCat="7" ItemIndex="186" />
+	<Mix TicketCat="13" TicketIndex="135" TicketLevel="0" ItemCat="8" ItemIndex="186" />
+	<Mix TicketCat="13" TicketIndex="136" TicketLevel="0" ItemCat="9" ItemIndex="186" />
+	<Mix TicketCat="13" TicketIndex="138" TicketLevel="0" ItemCat="10" ItemIndex="186" />
+	<Mix TicketCat="13" TicketIndex="139" TicketLevel="0" ItemCat="11" ItemIndex="186" />
+	<Mix TicketCat="13" TicketIndex="142" TicketLevel="0" ItemCat="7" ItemIndex="187" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="187" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="187" />
+	<Mix TicketCat="13" TicketIndex="143" TicketLevel="0" ItemCat="10" ItemIndex="187" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="187" />
+	<Mix TicketCat="13" TicketIndex="137" TicketLevel="0" ItemCat="7" ItemIndex="218" />
+	<Mix TicketCat="13" TicketIndex="135" TicketLevel="0" ItemCat="8" ItemIndex="218" />
+	<Mix TicketCat="13" TicketIndex="136" TicketLevel="0" ItemCat="9" ItemIndex="218" />
+	<Mix TicketCat="13" TicketIndex="138" TicketLevel="0" ItemCat="10" ItemIndex="218" />
+	<Mix TicketCat="13" TicketIndex="139" TicketLevel="0" ItemCat="11" ItemIndex="218" />
+	<Mix TicketCat="13" TicketIndex="142" TicketLevel="0" ItemCat="7" ItemIndex="219" />
+	<Mix TicketCat="13" TicketIndex="140" TicketLevel="0" ItemCat="8" ItemIndex="219" />
+	<Mix TicketCat="13" TicketIndex="141" TicketLevel="0" ItemCat="9" ItemIndex="219" />
+	<Mix TicketCat="13" TicketIndex="143" TicketLevel="0" ItemCat="10" ItemIndex="219" />
+	<Mix TicketCat="13" TicketIndex="144" TicketLevel="0" ItemCat="11" ItemIndex="219" />
+</MixLuckyTemplate>

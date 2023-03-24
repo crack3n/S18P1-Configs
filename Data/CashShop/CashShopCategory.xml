@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==              File Name: CashShopCategory               ==
+// ============================================================
+-->
+
+<CashShopCategory>
+    <Cat ID="2" Name="Goblin Points" Parent="200" Main="0" Disable="0" />
+    <Cat ID="3" Name="Jewel of Bles" Parent="200" Main="0" Disable="0" />
+    <Cat ID="10" Name="Seals Scrolls" Parent="200" Main="1" Disable="0" />
+    <Cat ID="11" Name="Ticket Pots" Parent="200" Main="1" Disable="0" />
+    <Cat ID="12" Name="Mix" Parent="200" Main="1" Disable="0" />
+    <Cat ID="13" Name="Equipament" Parent="200" Main="1" Disable="0" />
+    <Cat ID="14" Name="Misc" Parent="200" Main="1" Disable="0" />
+    <Cat ID="15" Name="Credits" Parent="200" Main="1" Disable="0" />
+    <Cat ID="16" Name="Special" Parent="200" Main="1" Disable="0" />
+    <Cat ID="20" Name="Pets Buff" Parent="200" Main="2" Disable="0" />
+    <Cat ID="21" Name="Events" Parent="200" Main="2" Disable="0" />
+    <Cat ID="22" Name="Misc" Parent="200" Main="2" Disable="0" />
+    <Cat ID="30" Name="Misc" Parent="200" Main="3" Disable="0" />
+</CashShopCategory>
