@@ -5,6 +5,17 @@
 // == 				   POWERED BY DevEMU				 	 ==
 // ==                 File Name: ServerMap                   ==
 // ============================================================
+
+
+
+SERVER_TYPE_PVP = 0,
+SERVER_TYPE_NO_PVP = 1,
+SERVER_TYPE_GOLDEN_PVP = 2,
+SERVER_TYPE_GOLDEN_NO_PVP = 3
+
+
+
+
 -->
 
 <ServerMap>
