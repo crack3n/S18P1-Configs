@@ -8,6 +8,7 @@
 -->
 
 <ShopItem>
+<Tab Id="1">
 	<Item ItemCat="0" ItemIndex="41" ItemLevel="0" ItemDur="1" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExel="0" ItemAncient="0" Socket1="65535" Socket2="65535" Socket3="65535" Socket4="65535" Socket5="65535" Price="0" ID="6" />
 	<Item ItemCat="5" ItemIndex="6" ItemLevel="3" ItemDur="0" ItemSkill="0" ItemLuck="1" ItemOption="3" ItemExel="0" ItemAncient="0" Socket1="65535" Socket2="65535" Socket3="65535" Socket4="65535" Socket5="65535" Price="0" ID="5" />
 	<Item ItemCat="4" ItemIndex="16" ItemLevel="3" ItemDur="0" ItemSkill="1" ItemLuck="1" ItemOption="3" ItemExel="0" ItemAncient="0" Socket1="65535" Socket2="65535" Socket3="65535" Socket4="65535" Socket5="65535" Price="0" ID="4" />
@@ -15,4 +16,17 @@
 	<Item ItemCat="2" ItemIndex="9" ItemLevel="3" ItemDur="0" ItemSkill="1" ItemLuck="1" ItemOption="3" ItemExel="0" ItemAncient="0" Socket1="65535" Socket2="65535" Socket3="65535" Socket4="65535" Socket5="65535" Price="0" ID="2" />
 	<Item ItemCat="2" ItemIndex="8" ItemLevel="3" ItemDur="0" ItemSkill="1" ItemLuck="1" ItemOption="3" ItemExel="0" ItemAncient="0" Socket1="65535" Socket2="65535" Socket3="65535" Socket4="65535" Socket5="65535" Price="0" ID="1" />
 	<Item ItemCat="0" ItemIndex="16" ItemLevel="3" ItemDur="0" ItemSkill="1" ItemLuck="1" ItemOption="3" ItemExel="0" ItemAncient="0" Socket1="65535" Socket2="65535" Socket3="65535" Socket4="65535" Socket5="65535" Price="0" ID="0" />
+</Tab>
+	<Tab Id="2">
+		<!-- Insert shop data here -->
+	</Tab>
+	<Tab Id="3">
+		<!-- Insert shop data here -->
+	</Tab>
+	<Tab Id="4">
+		<!-- Insert shop data here -->
+	</Tab>
+	<Tab Id="5">
+		<!-- Insert shop data here -->
+	</Tab>
 </ShopItem>
