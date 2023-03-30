@@ -1515,7 +1515,7 @@
 			<Monster ID="344" StartX="183" StartY="33" EndX="183" EndY="33" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="600" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="crywolf_ai" AIGroup="13" AIGroupMember="1" Count="1" />
 			<Monster ID="348" StartX="183" StartY="36" EndX="183" EndY="36" Direction="-1" SpawnDelay="0" MoveDistance="0" Data1="1000" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="crywolf_ai" AIGroup="13" AIGroupMember="2" Count="1" />
 			<Monster ID="348" StartX="183" StartY="30" EndX="183" EndY="30" Direction="-1" SpawnDelay="0" MoveDistance="0" Data1="1000" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="crywolf_ai" AIGroup="13" AIGroupMember="3" Count="1" />
-        </Ground>
+		</Ground>
     </EventInfo>
 
     <EventInfo EventID="5">

@@ -2685,6 +2685,13 @@
 			<Spawn Index="251" StartX="145" StartY="14" Dir="1" NpcFunction="lorencia_weapon" />
 			<Spawn Index="256" StartX="96" StartY="25" Dir="2" NpcFunction="npc_talk_jewel_mix" />
 			<Spawn Index="406" StartX="228" StartY="48" Dir="1" NpcFunction="npc_talk_quest_evolution" />
+			<Spawn Index="204" StartX="121" StartY="31" Dir="2" NpcFunction="" />
+			<Spawn Index="205" StartX="125" StartY="27" Dir="2" NpcFunction="" />
+            <Spawn Index="206" StartX="126" StartY="35" Dir="2" NpcFunction="" />
+            <Spawn Index="207" StartX="120" StartY="38" Dir="2" NpcFunction="" />
+            <Spawn Index="208" StartX="115" StartY="38" Dir="2" NpcFunction="" />
+            <Spawn Index="209" StartX="117" StartY="27" Dir="2" NpcFunction="" />    
+			
 		</Spot>
 		<Spot Type="2" Description="Single Point Monsters">
 			<Spawn Index="310" Distance="30" StartX="58" StartY="47" Dir="-1" /> <!-- Hammer Scout -->
