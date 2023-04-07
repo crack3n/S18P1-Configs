@@ -132,5 +132,10 @@
 	<Item ItemCat="12" ItemIndex="162" ItemLevel="0" SkillID="2012" />
 	<Item ItemCat="12" ItemIndex="165" ItemLevel="0" SkillID="2015" />
 	<Item ItemCat="12" ItemIndex="166" ItemLevel="0" SkillID="2016" />
+	<Item ItemCat="12" ItemIndex="87" ItemLevel="0" SkillID="2032" />
+    <Item ItemCat="12" ItemIndex="88" ItemLevel="0" SkillID="2031" />
+    <Item ItemCat="12" ItemIndex="89" ItemLevel="0" SkillID="2028" />
+    <Item ItemCat="12" ItemIndex="90" ItemLevel="0" SkillID="2029" />
+    <Item ItemCat="12" ItemIndex="91" ItemLevel="0" SkillID="2030" />
 	
 </SkillLearn>
