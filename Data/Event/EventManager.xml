@@ -150,13 +150,13 @@
     </Event>
 
     <Event ServerCode="17" EventID="17">       
-		<Data Duration="0" NotifyTime="0" Hour="11" Minute="30" DayOfWeek="-1" DayOfMonth="-1" />
+		<Data Duration="0" NotifyTime="0" Hour="17" Minute="50" DayOfWeek="-1" DayOfMonth="-1" />
 		<Data Duration="0" NotifyTime="0" Hour="11" Minute="6" DayOfWeek="-1" DayOfMonth="-1" />
     </Event>
 
-    <Event ServerCode="18" EventID="19">       
-		<Data Duration="0" NotifyTime="0" Hour="22" Minute="0" DayOfWeek="6" DayOfMonth="-1" />
-		<Data Duration="0" NotifyTime="0" Hour="22" Minute="0" DayOfWeek="3" DayOfMonth="-1" />
+    <Event ServerCode="17" EventID="19">       
+		<Data Duration="0" NotifyTime="0" Hour="20" Minute="32" DayOfWeek="-1" DayOfMonth="-1" />
+		<Data Duration="0" NotifyTime="0" Hour="22" Minute="0" DayOfWeek="-1" DayOfMonth="-1" />
     </Event>
 
     <Event ServerCode="18" EventID="0">  
@@ -247,7 +247,7 @@
 		<Data Duration="0" NotifyTime="0" Hour="23" Minute="0" DayOfWeek="5" DayOfMonth="-1" />
 		<Data Duration="0" NotifyTime="0" Hour="23" Minute="0" DayOfWeek="3" DayOfMonth="-1" />
 		<Data Duration="0" NotifyTime="0" Hour="23" Minute="0" DayOfWeek="1" DayOfMonth="-1" />
-		<Data Duration="0" NotifyTime="0" Hour="10" Minute="30" DayOfWeek="-1" DayOfMonth="-1" />
+		<Data Duration="0" NotifyTime="0" Hour="0" Minute="3" DayOfWeek="-1" DayOfMonth="-1" />
     </Event>
 
     <Event ServerCode="19" EventID="24">  
