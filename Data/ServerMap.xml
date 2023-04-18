@@ -20,6 +20,7 @@ SERVER_TYPE_GOLDEN_NO_PVP = 3
 
 <ServerMap>
 	<Server ServerIndex="0" ServerCode="0" ServerName="Regular" ServerPort="55501" ServerIP="YOUR IP" Display="1" DefaultWorld="0" DefaultX="75" DefaultY="75" ServerType="0" />
+	<Server ServerIndex="1" ServerCode="1" ServerName="Regular" ServerPort="55005" ServerIP="YOUR IP" Display="1" DefaultWorld="0" DefaultX="75" DefaultY="75" ServerType="0" />
 	<Server ServerIndex="17" ServerCode="17" ServerName="ArkaWar" ServerPort="55517" ServerIP="YOUR IP" Display="0" DefaultWorld="41" DefaultX="41" DefaultY="29" ServerType="0" />
 	<Server ServerIndex="18" ServerCode="18" ServerName="Event" ServerPort="55518" ServerIP="YOUR IP" Display="0" DefaultWorld="40" DefaultX="40" DefaultY="269" ServerType="0" />
 	<Server ServerIndex="19" ServerCode="19" ServerName="Siege" ServerPort="55519" ServerIP="YOUR IP" Display="0" DefaultWorld="41" DefaultX="41" DefaultY="29" ServerType="0" />

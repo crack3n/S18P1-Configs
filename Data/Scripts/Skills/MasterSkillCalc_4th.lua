@@ -1,16 +1,3 @@
--- // ============================================================
--- // == INTERNATIONAL GAMING CENTER NETWORK
--- // == www.igcn.mu
--- // == (C) 2019 IGC-Network (R)
--- // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
--- // == File is a part of IGCN Group MuOnline Server files.
--- // ============================================================
-
--- MasterSkillCalc Control Script, Lua v5.2
--- Skill Tree Skill Configuration (Result, Time) - Can be modified to adjust for own needs
-
--- SkillID refers to Index of skill in \Data\Skills\SkillList.txt
-
 -- Character Classes
 CLASS_WIZARD                                          = 0	-- Fairy Elf, Muse Elf, High Elf
 CLASS_KNIGHT                                          = 1	-- Dark Wizard, Soul Master, Grand Master
@@ -246,7 +233,7 @@ function ChaosBlade_4thEnchant_Gladiator(InDamage, Strength, Dexterity, Vitality
     return OutDamage
 end
 
--- SkillID: 2015, Havok Spear Enhancement
+-- SkillID: 1215, Havok Spear Enhancement
 function HavokSpear_4thEnchant_Gladiator(InDamage, Strength, Dexterity, Vitality, Energy, BarrageCount)
     local OutDamage = 0
     
@@ -372,7 +359,7 @@ function SolidProtection_4thEnchant_Knight(NormalLevel, MasterLevel, Strength, D
 	return AbsorbHP, IncAtkPower, ConvertDamage, Duration
 end
 
--- SkillID: 1211, Dark Plasma Enhancement Skill
+-- SkillID: 1211, Dark Plasma Enhancement Skill+
 function DarkPlasma_4thEnchant_GunCrusher(InDamage, Strength, Dexterity, Vitality, Energy)
 	local OutDamage = 0
 	OutDamage = InDamage * ((Energy / 8) + (Dexterity / 28) + 120) / 100
@@ -449,7 +436,7 @@ function LemuriaMageUltimateForce_4thEnchant_Calc(InDamage, Strength, Dexterity,
 	return OutDamage
 end
 
--- SkillID: 1220, Shining Bird Enhancement Skill
+-- SkillID: 1220, Shining Bird Enhancement Skill+
 function LightWizardShiningBird_4thEnchant_Calc(InDamage, Strength, Dexterity, Vitality, Energy, BarrageCount)
 	local OutDamage = 0
 	

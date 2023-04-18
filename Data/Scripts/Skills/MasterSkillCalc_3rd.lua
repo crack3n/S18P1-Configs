@@ -1,16 +1,3 @@
--- // ============================================================
--- // == INTERNATIONAL GAMING CENTER NETWORK
--- // == www.igcn.mu
--- // == (C) 2022 IGC-Network (R)
--- // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
--- // == File is a part of IGCN Group MuOnline Server files.
--- // ============================================================
-
--- MasterSkillCalc Control Script, Lua v5.3
--- Skill Tree Skill Configuration (Result, Time) - Can be modified to adjust for own needs
-
--- SkillID refers to Index of skill in \Data\Skills\SkillList.xml
-
 -- Character Classes
 CLASS_WIZARD                                          = 0	-- Fairy Elf, Muse Elf, High Elf
 CLASS_KNIGHT                                          = 1	-- Dark Wizard, Soul Master, Grand Master
@@ -1102,7 +1089,7 @@ function GrowLancerWrath_Level3(Strength, Dexterity, Energy)
 	return SkillIncDamage, SkillDecDefense, SkillTime
 end
 
--- SkillID: 693, Obsidian PowUp - (Mirage Lancer)
+-- SkillID: 693, Obsidian PowUp - (Mirage Lancer)+
 function GrowLancerObsidian_Level1(Index, TargetIndex, TargetClass, Strength, Dexterity, Energy)
 	local SkillEffect = Strength / 20
 	local SkillTime = 120
@@ -1208,7 +1195,7 @@ function ExpansionWizardryCalc_Level1(Class, Energy, MagicDamageMax, SkillTreeVa
 	return SkillEffect1, SkillEffect2, SkillTime
 end
 
--- SkillID: 383: Expansion of Wizardry Mastery
+-- SkillID: 383: Expansion of Wizardry Mastery+
 function ExpansionWizardryCalc_Level2(Class, Energy, MagicDamageMax, SkillTreeValue)
 	local SkillEffect1 = 0
 	local SkillEffect2 = 0
@@ -1760,7 +1747,7 @@ function LemuriaMageBless_Level1(Energy)
 	return SkillEffect
 end
 
--- SkillID: 858, Intensive Care Strengthener
+-- SkillID: 858, Intensive Care Strengthener+
 function LemuriaMageHeal_Level1(TargetClass, Index, TargetIndex, Energy)
 	local SkillEffect = 0
 	
@@ -1858,7 +1845,7 @@ function IllusionKnightWindGlaive_MasterLevel2_Calc(InDamage, Strength, Dexterit
 end
 
 -- SkillID: 881, Blade Storm Strengthener
-function IllusionKnightBladeStorm_MasterLevel2_Calc(InDamage, Strength, Dexterity, Vitality, Energy, BarrageCount)
+function IllusionKnightBladeStorm_MasterLevel1_Calc(InDamage, Strength, Dexterity, Vitality, Energy, BarrageCount)
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
@@ -1873,7 +1860,7 @@ function IllusionKnightBladeStorm_MasterLevel2_Calc(InDamage, Strength, Dexterit
 end
 
 -- SkillID: 882, Blade Storm Mastery
-function IllusionKnightBladeStorm_MasterLevel1_Calc(InDamage, Strength, Dexterity, Vitality, Energy, BarrageCount)
+function IllusionKnightBladeStorm_MasterLevel2_Calc(InDamage, Strength, Dexterity, Vitality, Energy, BarrageCount)
 	local OutDamage = 0
 	
 	if (BarrageCount == 1) then
