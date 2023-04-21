@@ -28,6 +28,8 @@
 	<Pentagram Item="6361" Name="Bead of Thoughtful Sage" Rate="1" Option1="5" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Option7="0" />
 	<Pentagram Item="6362" Name="Magic Scroll (attributable)" Rate="2" Option1="27" Option2="24" Option3="0" Option4="0" Option5="0" Option6="0" Option7="0" />
 	<Pentagram Item="6450" Name="Golden Line Harp of Lunidel" Rate="2" Option1="34" Option2="21" Option3="29" Option4="0" Option5="0" Option6="0" Option7="0" />
-	<Pentagram Item="6451" Name="Precious Bead of Lemuria" Rate="2" Option1="34" Option2="22" Option3="30" Option4="0" Option5="0" Option6="0" Option7="0" />
+	<Pentagram Item="6451" Name="Precious Bead of Lemuria" Rate="1" Option1="34" Option2="22" Option3="30" Option4="0" Option5="0" Option6="0" Option7="0" />
 	<Pentagram Item="6452" Name="Colorful Lira of Norwein" Rate="2" Option1="23" Option2="24" Option3="25" Option4="0" Option5="0" Option6="0" Option7="0" />
+	<Pentagram Item="6644" Name="Brilliant Orb (I)" Rate="2" Option1="61" Option2="63" Option3="66" Option4="0" Option5="0" Option6="0" Option7="0" />
+	<Pentagram Item="6647" Name="Antonias' Sword (I)" Rate="2" Option1="67" Option2="68" Option3="0" Option4="0" Option5="0" Option6="0" Option7="0" />
 </PentagramType>
