@@ -33,9 +33,9 @@
 			<Use Type="100" Time="86400" Name="GM Gift" />
 		</General>
 		<PersonalShop>
-			<Use Type="0" Time="30" Name="Time to obtain purchased item" />
-			<Use Type="1" Time="30" Name="Time to obtain prize for sold item" />
-			<Use Type="2" Time="30" Name="Time to obtain items withdrawn from Personal Store" />
+			<Use Type="0" Time="3600" Name="Time to obtain purchased item" />
+			<Use Type="1" Time="3600" Name="Time to obtain prize for sold item" />
+			<Use Type="2" Time="3600" Name="Time to obtain items withdrawn from Personal Store" />
 		</PersonalShop>
 	</RewardExpiryTime>
 </GremoryCase>
