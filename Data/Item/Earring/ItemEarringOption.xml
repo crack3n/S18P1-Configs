@@ -39,6 +39,8 @@
 		<Option ID="28" Name="Mastery attack/wizardry" Type="1" />
 		<Option ID="29" Name="Increases mastery excellent damage" Type="1" />
 		<Option ID="30" Name="Increases mastery critical damage" Type="1" />
+		<Option ID="31" Name="Mastery Damage Increase" Type="1" />
+		
     </EarningOption>
 
     <EarningOptionValue>
