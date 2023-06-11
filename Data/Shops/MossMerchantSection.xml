@@ -18,5 +18,5 @@
 	<Data ID="7" Name="Miracle Coin Box" ReqItem1="7581" ReqCount1="1" ReqItem2="-1" ReqCount2="0" ReqItem3="-1" ReqCount3="0" ReqZen="0" ItemBag="MossMerchant08" Enable="1" />
 	<Data ID="8" Name="Bless Rage Earring" ReqItem1="7181" ReqCount1="1" ReqItem2="-1" ReqCount2="0" ReqItem3="-1" ReqCount3="0" ReqZen="0" ItemBag="MossMerchant09" Enable="1" />
 	<Data ID="9" Name="Guardian Box" ReqItem1="7181" ReqCount1="1" ReqItem2="-1" ReqCount2="0" ReqItem3="-1" ReqCount3="0" ReqZen="0" ItemBag="MossMerchant10" Enable="1" />
-	<Data ID="10" Name="Horn Of Fenrir" ReqItem1="7181" ReqCount1="1" ReqItem2="7182" ReqCount2="1" ReqItem3="-1" ReqCount3="0" ReqZen="0" ItemBag="MossMerchant11" Enable="1" />
+	<Data ID="10" Name="Moss Miracle" ReqItem1="7581" ReqCount1="1" ReqItem2="7181" ReqCount2="1" ReqItem3="-1" ReqCount3="0" ReqZen="0" ItemBag="MossMerchant11" Enable="1" />
 </MossMerchantSection>
