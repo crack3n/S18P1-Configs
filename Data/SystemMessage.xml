@@ -496,8 +496,8 @@
 	<Data ID="482" Language="0" Text= "You don't have enough space on inventory."/>
 	<Data ID="483" Language="0" Text= "Delayed teleport canceled."/>
 	<Data ID="484" Language="0" Text= "You are not authorized to use this account."/>
-	<Data ID="485" Language="0" Text= "Use /auth <security_code> to authorize it."/>
-	<Data ID="486" Language="0" Text= "Example /auth 012345678912"/>
+	<Data ID="485" Language="0" Text= "Use auth security_code to authorize it."/>
+	<Data ID="486" Language="0" Text= "Example: auth 012345678912"/>
 	<Data ID="487" Language="0" Text= "Invalid teleport location."/>
 	<Data ID="488" Language="0" Text= "Required level %d to move to %s."/>
 	<Data ID="489" Language="0" Text= "You need %u zen to move to %s."/>
@@ -643,9 +643,12 @@
 	<Data ID="629" Language="0" Text= "[%s] Open Box Moss Merchant received [%s %s]"/>
 	<Data ID="630" Language="0" Text= "[%s] Open Box Moss Merchant received [%s]"/>
 	<Data ID="631" Language="0" Text= "Protector of Acheron Started."/>
-	<!-- <Data ID="632" Language="0" Text= />
-	<Data ID="633" Language="0" Text= />
-	<Data ID="634" Language="0" Text= />
+	<Data ID="632" Language="0" Text= "You Already Have Maximum Bonus Harmony!"/>
+	<Data ID="633" Language="0" Text= "Harmony Already Removed"/>
+	<Data ID="634" Language="0" Text= "Protector of Acheron Ended."/>
+	<Data ID="635" Language="0" Text= "Pentagram Master Upgrade Defeat"/>
+	<Data ID="636" Language="0" Text= "You must be at Level %d  to use MuHelper!"/>
+	<!--<Data ID="634" Language="0" Text= />
 	<Data ID="635" Language="0" Text= />
 	<Data ID="636" Language="0" Text= />
 	<Data ID="637" Language="0" Text= />
